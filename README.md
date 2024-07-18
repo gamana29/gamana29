@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHIRUMAMILLA GAMANA</h1>
-<h3 align="center">Interested in Electronics and the Integration of AI in everyday applications.| Sophomore in Electronics and Communications from India</h3>
+<h3 align="center">"Passionate about Computer and Electronics Technologies"| Sophomore in Electronics and Communications from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamana29&label=Profile%20views&color=0e75b6&style=flat" alt="gamana29" /> </p>
 
