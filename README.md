@@ -81,3 +81,10 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamana29&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gamana29&theme=radical&no-bg=true&no-frame=true)
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamana29&layout=compact&theme=radical)
+
