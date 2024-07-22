@@ -18,7 +18,7 @@
 
 ## ⚡ Fun Fact
 
-- I'm passionate about exploring new technologies and staying updated with the latest advancements in the tech world!
+- I once tried to teach my dog to code, but all he managed to do was fetch syntax errors.
 
 ---
 
@@ -115,7 +115,7 @@
 
 - Enhancing my skills in AI and ML.
 - Contributing to open-source projects.
-- 
+   
 ---
 
 ## 🎯 Goals for 2024
