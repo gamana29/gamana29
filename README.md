@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm CHIRUMAMILLA GAMANA</h1>
-<h3 align="center">"Passionate about Computer and Electronics Technologies"| Sophomore in Electronics and Communications from India</h3>
+<h3 align="center">"Passionate about Computer and Electronics Technologies" | Sophomore in Electronics and Communications from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gamana29&label=Profile%20views&color=0e75b6&style=flat" alt="gamana29" />
 </p>
-
-----
 
 ## 🌱 Currently Learning
 
@@ -103,6 +101,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamana29&layout=compact&theme=radical)
 
 ---
+
 ## 💬 Ask me about
 
 - Artificial Intelligence and Machine Learning
@@ -132,9 +131,6 @@ I'm always open to collaborating on exciting projects. If you have an interestin
 ---
 
 ## 💖 Support Me
-If you like my work
+If you like my work, consider supporting me by reaching out or contributing to my open-source projects.
 
----
 <p align="center">Thank you for visiting my profile! Have a great day! 😊</p>
-
-
