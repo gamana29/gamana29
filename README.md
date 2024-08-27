@@ -18,9 +18,12 @@
 
 - I once tried to teach my dog to code, but all he managed to do was fetch syntax errors.
 
----
-🔥 **GitHub Contributions**: ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
----
+
+## 🔥 **GitHub Contributions**
+
+ - ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
+
+-----
 
 ## 🌐 Connect with Me
 
