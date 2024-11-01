@@ -19,12 +19,6 @@
 - I once tried to teach my dog to code, but all he managed to do was fetch syntax errors.
 
 
-## 🔥 **GitHub Contributions**
-
- - ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gyerra&theme=dark)
-
------
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -91,14 +85,6 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gamana29&theme=radical&no-bg=true&no-frame=true)
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gamana29&theme=radical" alt="GitHub Activity Graph">
-</p>
 
 ---
 
