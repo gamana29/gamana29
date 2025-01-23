@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHIRUMAMILLA GAMANA</h1>
+<h1 align="center">Hi 👋, I'm GAMANA CHIRUMAMILLA</h1>
 <h3 align="center">"Passionate about Computer and Electronics Technologies" | Contributing to Open Source Projects"</h3>
 
 <p align="center">
