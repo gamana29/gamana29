@@ -9,8 +9,8 @@
 
 - **Artificial Intelligence and Machine Learning**
 - **Python**
-- **Wireless Communication 5G/6G
-- **VLSI DESIGN
+- **Wireless Communication 5G/6G**
+- **VLSI DESIGN**
 
 ## 📫 How to Reach Me
 
