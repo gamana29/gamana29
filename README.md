@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GAMANA CHIRUMAMILLA</h1>
-<h3 align="center">"Passionate about Computer and Electronics Technologies" | Contributing to Open Source Projects"</h3>
+<h3 align="center">"Contributing to Open Source Projects"</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gamana29&label=Profile%20views&color=0e75b6&style=flat" alt="gamana29" />
@@ -9,17 +9,12 @@
 
 - **Artificial Intelligence and Machine Learning**
 - **Python**
-- **Wireless Communication 5G/6G**
-- **VLSI DESIGN**
+-  **5G/6G Communication**
 
 ## 📫 How to Reach Me
 
-- **Email**: [gamana2905@gmail.com](mailto:gamana2905@gmail.com)
-
-## ⚡ Fun Fact
-
-- I once tried to teach my dog to code, but all he managed to do was fetch syntax errors.
-
+- **Email**: [chirumamillagamana@gmail.com ](mailto:chirumamillagamana@gmail.com)
+---
 
 ## 🌐 Connect with Me
 
@@ -90,40 +85,11 @@
 
 ---
 
-## 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamana29&layout=compact&theme=radical)
-
----
-
-## 💬 Ask me about
-
-- Artificial Intelligence and Machine Learning
-- Electronics and Communication Technologies
-- Python Programming
-
----
-
 ## 🔭 I’m currently working on
 
-- Enhancing my skills in AI and ML.
+- Enhancing my skills in AIML and 5G/6G Communication .
 - Contributing to open-source projects.
    
 ---
-
-## 🎯 Goals for 2024
-
-- Master advanced AI and ML techniques.
-- Start a tech blog to share my knowledge and experiences.
-
----
-
-## 💬 Let's Collaborate
-
-I'm always open to collaborating on exciting projects. If you have an interesting project or idea, feel free to reach out to me. Let's create something amazing together!
-
----
-
-## 💖 Support Me
-If you like my work, consider supporting me by reaching out or contributing to my open-source projects.
 
 <p align="center">Thank you for visiting my profile! Have a great day! 😊</p>
