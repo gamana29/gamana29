@@ -9,7 +9,7 @@
 
 - **Artificial Intelligence and Machine Learning**
 - **Python**
--  **5G/6G Communication**
+-  **5G/6G Wireless Technologies/Communication**
 
 ## 📫 How to Reach Me
 
