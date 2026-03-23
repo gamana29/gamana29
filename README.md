@@ -1,19 +1,35 @@
 <h1 align="center">Hi 👋, I'm GAMANA CHIRUMAMILLA</h1>
-<h3 align="center">"Contributing to Open Source Projects"</h3>
+<h3 align="center">📡 Passionate about 5G/6G Wireless Technologies, AIML & Open Source</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gamana29&label=Profile%20views&color=0e75b6&style=flat" alt="gamana29" />
 </p>
 
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering student exploring modern technologies  
+- 📡 Passionate about **5G/6G Wireless Communication Technologies**  
+- 🤖 Interested in **Artificial Intelligence & Machine Learning (AIML)**  
+- 🌍 Contributor to **Open Source Projects**  
+
+---
+
 ## 🌱 Currently Learning
 
-- **Artificial Intelligence and Machine Learning**
-- **Python**
--  **5G/6G Wireless Technologies/Communication**
+- 📶 **5G/6G Wireless Systems**
+- 🧠 **Artificial Intelligence & Machine Learning (AIML)**
+- 🐍 **Python Development**
 
-## 📫 How to Reach Me
+---
 
-- **Email**: [chirumamillagamana@gmail.com ](mailto:chirumamillagamana@gmail.com)
+## 🔭 Currently Working On
+
+- 📡 **Beam Training in Wireless Communication (Research)**
+- 🤖 Building AIML-based projects
+- 🌍 Contributing to Open Source
+
 ---
 
 ## 🌐 Connect with Me
@@ -22,7 +38,7 @@
   <a href="https://x.com/Gammu29" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gammu29" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/chirumamillagamana/" target="blank">
+  <a href="https://www.linkedin.com/in/chirumamilagamana/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chirumamilla Gamana" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/gamana_29" target="blank">
@@ -38,7 +54,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamana_29" height="30" width="40" />
   </a>
   <a href="https://www.hackerearth.com/@gamana2905" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="CHIRUMAMILLA GAMANA" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gamana2905" height="30" width="40" />
   </a>
 </p>
 
@@ -47,37 +63,32 @@
 ## 🛠️ Languages and Tools
 
 <p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
   </a> 
 </p>
 
 ---
 
+## 📫 Reach Me
 
-## 🔭 I’m currently working on
+- 📧 **Email**: chirumamillagamana@gmail.com  
 
-- Enhancing my skills in AIML and 5G/6G Communication .
-- Contributing to open-source projects.
-   
 ---
 
-<p align="center">Thank you for visiting my profile! Have a great day! 😊</p>
+<p align="center">✨ Thanks for visiting my profile! 🚀</p>
