@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Engineering student exploring modern technologies  
 - 📡 Passionate about **5G/6G Wireless Communication Technologies**  
 - 🤖 Interested in **Artificial Intelligence & Machine Learning (AIML)**  
 - 🌍 Contributor to **Open Source Projects**  
